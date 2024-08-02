@@ -2,8 +2,9 @@
 
 My Name is YunDong
 
-- 🌱 I’m currently learning SAA, ADsP
-- 
+- 🌱 I’m currently learning SAA, Python
+- 🤔 I’m looking for help with Algorithm
+- 📫 How to reach me: KakaoTalk - msaki061
 <!--
 **saya61/saya61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
